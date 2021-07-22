@@ -17,11 +17,13 @@
 
 - I’m currently working on [Inmetrics](https://inmetrics.com.br/) <img src="./Image.png" alt="memoji" width="50px" />
 
+- Computer Science (LIC) student at University of Brasília (UnB)
+
 - Focused on React Native.  <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="logo" width="50px" />
 
 - You can find me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/LucasVeloz)
 
 
 <h4>About me </h4>
-I’m a Computer Science (LIC) student at University of Brasília (UnB), focused on mobile development with RN, but my stack is the one mentioned above.
+I'm a software developer focused in mobile with React Native. My current stack is React Native, ReactJS and NodeJS.
 
