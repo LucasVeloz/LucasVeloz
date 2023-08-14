@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I’m Lucas Veloz. </h1>
-<br />
-<br />
-<br />
 You can find me on: 
+<br />
 <br />
 <div> 
   <a href="https://www.instagram.com/lucasveloz.dev/" target="_blank">
