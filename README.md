@@ -1,22 +1,7 @@
 <h1 align="center"> Hi there, I’m Lucas Veloz. </h1>
-
-<h4 align="center">
-  <a href="https://www.linkedin.com/in/LucasVeloz" target="_blank" style="background-color:none">
-    <img src="https://img.shields.io/badge/Stack-ReactNative-informational?style=flat&logo=react&logoColor=white&color=ff0066" />
-  </a> 
-  <a href="https://www.linkedin.com/in/LucasVeloz" target="_blank">
-    <img src="https://img.shields.io/badge/Stack-React.JS-informational?style=flat&logo=react&logoColor=white&color=ff0066" />
-  </a> 
-  <a href="https://www.linkedin.com/in/LucasVeloz" target="_blank">
-    <img src="https://img.shields.io/badge/Stack-NodeJS-informational?style=flat&logo=ts-node&logoColor=white&color=ff0066" />
-  </a>  
-</h4>
-
 <br />
 <br />
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasVeloz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f9f9f9&bg_color=1d1f21" alt="Lucas Veloz's GitHub Stats" />
-
 You can find me on: 
 <br />
 <div> 
@@ -25,5 +10,8 @@ You can find me on:
   </a>
   <a href="https://www.linkedin.com/in/LucasVeloz" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff0066?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.youtube.com/@LucasVelozDev" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-ff0066?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </div>
